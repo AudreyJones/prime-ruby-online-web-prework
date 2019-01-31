@@ -11,5 +11,5 @@ def prime?(n)
       return false
     i = i + 6
   end
-end
   return true
+end
